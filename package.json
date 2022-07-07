@@ -1,9 +1,9 @@
 {
-   "name": "plugin-template",
-   "description": "Template for enmity plugins.",
-   "version": "1.0.0",
+   "name": "enmity-bd-compat",
+   "description": "Enmity compatibility layer for betterdiscord plugins",
+   "version": "0.0.1b1",
    "license": "GPL-3.0",
-   "author": "Zoey & eternal",
+   "author": "Opaldotjs",
    "scripts": {
       "build": "rollup -c --configPlugin esbuild"
    },

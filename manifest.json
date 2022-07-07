@@ -1,11 +1,11 @@
 {
-   "name": "SilentTyping",
-   "version": "1.0.0",
-   "description": "Silences your typing indicator.",
+   "name": "enmity-bd-compat",
+   "version": "0.0.1b1",
+   "description": "Enmity compatibility layer for betterdiscord plugins.",
    "authors": [
       {
-         "name": "eternal",
-         "id": "263689920210534400"
+         "name": "Opaldotjs",
+         "id": "581558160008019990"
       }
    ]
 }
